@@ -16,7 +16,7 @@ ireframes are visual guides that represent the skeletal structure of a website o
 ### 4. Functionality
 - **Definition:** Interactive elements and components that show how the system will behave.
 
-  # Types of wireframes
+  # Types of Wireframes
 In a traditional design process, wireframes come after on-the-fly hand-drawn sketches and right before high-fidelity mockups or prototypes.
 
 ### Low fidelity wireframing
