@@ -35,3 +35,19 @@ Figma is a cloud-based design tool widely used for wireframing, UI/UX design, an
 Drag-and-drop interface for quick wireframe creation.
 
 Reusable components to maintain consistency across designs.
+
+# Popular Wireframing Tools
+Wireframing helps visualize app or website layouts before development. Common tools include Balsamiq, Adobe XD, Sketch, and Figma.
+
+## Figma: A Recommended Tool
+Figma is a cloud-based design tool with real-time collaboration, reusable components, and interactive prototyping. It’s simple, accessible, and highly effective for wireframing.
+
+Benefits of Wireframing in Software Development
+
+### Guides design: Acts as a blueprint before coding.
+
+### Improves communication: Provides a shared visual for teams.
+
+### Reduces errors: Aligns everyone on requirements early.
+
+### Speeds development: Clear layouts help developers work faster.
