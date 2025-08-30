@@ -25,3 +25,13 @@ Low fidelity is the most basic type of wireframing. It’s so simplistic, that p
 ### High fidelity wireframing
 High fidelity wireframing takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style.
 
+
+# Popular Wireframing Tools
+Wireframing is a key step in the design process, helping visualize the layout and structure of websites or apps before development. Some popular wireframing tools include Balsamiq, Adobe XD, Sketch, and Figma.
+
+### Figma: A Recommended Tool
+Figma is a cloud-based design tool widely used for wireframing, UI/UX design, and prototyping. It allows real-time collaboration, making it ideal for teams. Key features include:
+
+Drag-and-drop interface for quick wireframe creation.
+
+Reusable components to maintain consistency across designs.
